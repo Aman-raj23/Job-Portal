@@ -25,5 +25,10 @@ A fully functional web-based Job Portal developed using PHP and MySQL that conne
 
 ---
 
-## 📁 Folder Structure
+
+
+
+
+
+
 
